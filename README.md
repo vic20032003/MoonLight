@@ -35,7 +35,7 @@ The project is highly-opinionated, and there are many other alternate routes it 
    1. Type `/newbot`
    2. Choose a name for your bot, e.g. `My Ton TWA`
    3. Choose a username for your bot, e.g. `my_ton_twa_482765_bot`
-   4. Take note of the access token, e.g. `5712441624:AAHmiHvwrrju1F3h29rlVOZLRLnv-B8ZZZ`
+   4. Take note of the access token, e.g. `6645514805:AAEFobh_os1dm7L3JJbI2uuLsQqIcEnFde4`
    5. Run `yarn configbot` to link your bot to the webapp
 
 # Development
